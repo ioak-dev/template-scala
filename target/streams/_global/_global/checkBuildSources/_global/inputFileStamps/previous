@@ -1,1 +1,1 @@
-["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["D:\\project\\workspace\\template-scala-two\\build.sbt","a616f974624afbc7e11065c508b58f35ea6d521c"]],"lastModifiedTimes":[]}]
+["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["C:\\Projects\\scala\\privatereserve\\build.sbt","e1000b7df851b069583c7b710b1f92fab3b9a0fa"],["C:\\Projects\\scala\\privatereserve\\project\\plugins.sbt","1d0e82a3560d11b9a582ebb5caddc54bee90c4aa"]],"lastModifiedTimes":[]}]

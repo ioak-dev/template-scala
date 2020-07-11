@@ -1,0 +1,5 @@
+
+GET     /hello                           controllers.HomeController.getDemoString
+GET     /name/:name                      controllers.HomeController.getName(name)
+
+GET     /assets/*file                    controllers.Assets.versioned(path="/public", file: Asset)

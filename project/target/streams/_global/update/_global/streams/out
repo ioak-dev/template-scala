@@ -1,3 +1,4 @@
 [debug] "not up to date. inChanged = true, force = false
-[debug] Updating ProjectRef(uri("file:/D:/project/workspace/template-scala-two/project/"), "template-scala-two-build")...
-[debug] Done updating ProjectRef(uri("file:/D:/project/workspace/template-scala-two/project/"), "template-scala-two-build")
+[debug] Updating ProjectRef(uri("file:/C:/Projects/scala/privatereserve/project/"), "privatereserve-build")...
+[debug] Done updating ProjectRef(uri("file:/C:/Projects/scala/privatereserve/project/"), "privatereserve-build")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
